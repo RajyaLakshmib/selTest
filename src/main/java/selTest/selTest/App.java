@@ -1,7 +1,7 @@
 package selTest.selTest;
 
 /**
- * Hello world!
+ * Hello world!*
  *
  */
 public class App 
